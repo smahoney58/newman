@@ -6,7 +6,7 @@ permalink: /features/
 
 ## Graph
 
-The graph shows all of the communications between email addresses in
+The graph shows of the communications between email addresses in
 the current view.  It is built by directing the **From** to each
 **To/Cc/Bcc**.  The thickness of the line shows more communications
 between the two nodes.
